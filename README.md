@@ -1,1 +1,1 @@
-# totally-ts-ab
+# Totally TypeScript by Andrew Burgess
